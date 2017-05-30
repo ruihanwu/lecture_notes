@@ -1,0 +1,4 @@
+# first step  #
+1. First, open google chrome 
+2. Second, open the link [google drive](https://drive.google.com/drive/my-drive)
+3. click on go to Google drive
